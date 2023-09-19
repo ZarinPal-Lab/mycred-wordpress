@@ -293,8 +293,8 @@ function mycred_zarinpal_plugin(){
 
                         wp_die($message);
                         exit;
-			}*/
-
+			*/
+			}
 			/**
 			* Process
 			* @since 1.4
